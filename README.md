@@ -1,5 +1,3 @@
-# sales-data-analysis-with-pandas
-EDA and Sales Analysis projects using Pandas.
 
 # 📊 Sales Data Analysis with Pandas
 
